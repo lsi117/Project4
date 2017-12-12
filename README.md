@@ -46,3 +46,5 @@ As soon as my proposal is approved I plan to do a little bit of the set up today
 ## Foreseen challenges or obstacles.
 I think that my biggest challenge will be dealing with auth, it's tricky, but I think that I can do it..I've done it before and survived the errors that came along with it. I should be able to accomplish it, but if for some reason I'm not able to then I really just want(at the bare min) to have a functional fullstack rails app with CRUD functionality. 
 
+## Project Board:
+https://github.com/lsi117/Project4/projects/1
