@@ -19,7 +19,7 @@ The user will be someone that is on the go, like a busy mom or dad. Someone with
 
 ### Lexi, the busy business woman and mom: 
 
-![alternateText](https://media.giphy.com/media/l3vR6sWgiTdUytffG/giphy.gif)
+![alternateText](https://media.giphy.com/media/FGgf0htHFKTM4/giphy.gif)
 
 A simple user scenario might be something like: Lexi is always busy, she gets up every morning at 7:30am, bolts out the door and grabs a coffee on her way to work. She walks to the subway and gets on, this is possibly the only break in her day from work. As she's taking the subway to work she pulls out her phone due, you know...sometimes you're just bored. Lexi, all of the sudden has a caffeine rush and remembers that she has to grab some milk from the store after work, print out something important for a neighbor and finally grab that very specific game her daughter has been ranting and raving about. The subway is getting closer and closer to her stop, she doesn't have much time, but luckily she has the To-Do List app. She opens the app and a clean and simple user interface comes up, Lexi logs into her To-Do app and starts to enter all of the things she needs to accomplish within her busy day. She smiles as she gets off at her stop, another thing in her day that she doesn't have to worry about.
 
@@ -38,12 +38,11 @@ A simple user scenario might be something like: Lexi is always busy, she gets up
 
 
 ## What technologies you intend on using.
-The technologies that I will be using are anything to do with a fullstack ruby app as well as try to use some authentication, so that way the user can have a personalized experience(and because I want to become more proficient at that). 
+The technologies that I will be using are anything to do with a fullstack ruby app as well as try to use some authentication, so that way the user can have a personalized experience(and because I want to become more proficient at that). I might even use a library specifically for CSS, I don't plan to make extra fancy animations for my app, since I still want it to maintain functionality and be easy and simple to use. I might use those animations just for other things like when adding a to do list item to ease in or even ease in the title, but nothing to fancy and if anything the CSS is always the extra goodies, first comes functionality.
 
 ## Your timeline
-Start as soon as proposal is ok go. Try to get everything done, so that I have basic functionality...then start adding additional goodies.
+As soon as my proposal is approved I plan to do a little bit of the set up today and to get a majority of the project work done tomorrow, since it's a half day. After that I want to put as much work into it as I can and plan to finish sometime during the weekend. I always like to finish a bit early, IF I can because then I can work out any kinks that go wrong with the project.
 
 ## Foreseen challenges or obstacles.
 I think that my biggest challenge will be dealing with auth, it's tricky, but I think that I can do it..I've done it before and survived the errors that came along with it. I should be able to accomplish it, but if for some reason I'm not able to then I really just want(at the bare min) to have a functional fullstack rails app with CRUD functionality. 
 
-## A link to your repo!
