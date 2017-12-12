@@ -8,6 +8,8 @@
 ## What your MVP looks like.
 Minimal Viable Product looks like a UX/UI friendly experience. It will be an easy interface to navigate, first off, when you open the app you will see a simple box that will house all of the todo items. The user will be able to add a todo item as well as edit, update, and delete them(resulting in full CRUD functionality). It's easy to use for a stress free experience.
 
+Post MVP: I would really like to work on extra bells and whistles: Maybe instead of JUST user auth I could somehow create a switch(like on the iphone) where a user can switch and then enter a series of numbers for their password. If correct, then sends them to the user sign in page view, if not, then it reloads and possibly does an animation of a message "Incorrect". 
+
 ## What your reach goals are.
 I want to make a friendly and easy to use to do app, a fullstack rails application. Also, I would like to add the personal touch of adding some user authentication. I really like anything to do with security, it really peaks my interest and it's an area I would like to improve my skills on, so i'll push myself to do that. Also, I want to try and work on more of my css, so maybe try to take my styling to the next level by animating stuff. Ultimate goal is to have something that is functional and also pretty.
 
