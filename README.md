@@ -1,22 +1,28 @@
-# Project4
-
-Proposal must include:
-
-## The name of your app.
-To-do List 📝 
+### The name of your app.
+# Project 4 Title: To-do List 📝 
 
 ![alternateText](https://gph.is/1KBcn9b)
 
 ---
+# Proposal must include:
 
 ## What your MVP looks like.
 Minimal Viable Product looks like a UX/UI friendly experience. It will be an easy interface to navigate, first off, when you open the app you will see a simple box that will house all of the todo items. The user will be able to add a todo item as well as edit, update, and delete them(resulting in full CRUD functionality). It's easy to use for a stress free experience.
 
 ## What your reach goals are.
-I want to make a friendly and easy to use to do app, a fullstack rails application. Also, I would like to add the personal touch of adding some user authentication. I really like anything to do with security, it really peaks my interest and it's an area I would like to improve my skills on, so i'll push myself to do that.
+I want to make a friendly and easy to use to do app, a fullstack rails application. Also, I would like to add the personal touch of adding some user authentication. I really like anything to do with security, it really peaks my interest and it's an area I would like to improve my skills on, so i'll push myself to do that. Also, I want to try and work on more of my css, so maybe try to take my styling to the next level by animating stuff. Ultimate goal is to have something that is functional and also pretty.
 
 ## User stories that describe how your app will be used.
-The user is someone who is on the go and wants to have an app where they can quickly jot down things that are due. Whether that be grabbing some groceries from the store or remembering to attend a concert. 
+
+### User story outline:
+
+The user will be someone that is on the go, like a busy mom or dad. Someone with many responsibilities and possibly a bit overwhelmed with all the things that are going on in their lives. They want things done and done with swift ease, something that won't take up any more of their precious time. That's why the app is designed with a simple interface, the to do items are propped right the users face as soon as they open the app. That's perfect for the busy parent that can't take the time to figure out how to work an app they just downloaded, they want something flexible to their schedule and fast. The to do app takes away the stress of having to remember every little thing that the user would have to remember otherwise throughout their already busy day. They just take a few seconds to jot down what they need to remember later on in the day and BAM! It appears on the main screen as soon as they launch the app.
+
+### Lexi, the busy business woman and mom: 
+
+![alternateText](https://gph.is/2eRGxhi)
+
+A simple user scenario might be something like: Lexi is always busy, she gets up every morning at 7:30am, bolts out the door and grabs a coffee on her way to work. She walks to the subway and gets on, this is possibly the only break in her day from work. As she's taking the subway to work she pulls out her phone due, you know...sometimes you're just bored. Lexi, all of the sudden has a caffeine rush and remembers that she has to grab some milk from the store after work, print out something important for a neighbor and finally grab that very specific game her daughter has been ranting and raving about. The subway is getting closer and closer to her stop, she doesn't have much time, but luckily she has the To-Do List app. She opens the app and a clean and simple user interface comes up, Lexi logs into her To-Do app and starts to enter all of the things she needs to accomplish within her busy day. She smiles as she gets off at her stop, another thing in her day that she doesn't have to worry about.
 
 ## Wireframes!
 
@@ -33,12 +39,12 @@ The user is someone who is on the go and wants to have an app where they can qui
 
 
 ## What technologies you intend on using.
-Want to build a fullstack rails application. I might want to add some auth? 
+The technologies that I will be using are anything to do with a fullstack ruby app as well as try to use some authentication, so that way the user can have a personalized experience(and because I want to become more proficient at that). 
 
 ## Your timeline
 Start as soon as proposal is ok go. Try to get everything done, so that I have basic functionality...then start adding additional goodies.
 
 ## Foreseen challenges or obstacles.
-Auth and forms.
+I think that my biggest challenge will be dealing with auth, it's tricky, but I think that I can do it..I've done it before and survived the errors that came along with it. I should be able to accomplish it, but if for some reason I'm not able to then I really just want(at the bare min) to have a functional fullstack rails app with CRUD functionality. 
 
 ## A link to your repo!
