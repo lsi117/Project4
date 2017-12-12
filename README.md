@@ -3,7 +3,11 @@
 Proposal must include:
 
 ## The name of your app.
-To-do List
+To-do List 📝 
+
+![alternateText](https://gph.is/1KBcn9b)
+
+---
 
 ## What your MVP looks like.
 Minimal Viable Product looks like a UX/UI friendly experience. It will be an easy interface to navigate, first off, when you open the app you will see a simple box that will house all of the todo items. The user will be able to add a todo item as well as edit, update, and delete them(resulting in full CRUD functionality). It's easy to use for a stress free experience.
@@ -15,11 +19,18 @@ I want to make a friendly and easy to use to do app, a fullstack rails applicati
 The user is someone who is on the go and wants to have an app where they can quickly jot down things that are due. Whether that be grabbing some groceries from the store or remembering to attend a concert. 
 
 ## Wireframes!
-Initial wireframe:
+
+### Initial wireframe:
+
 ![alternateText](https://github.com/lsi117/Project4/blob/master/Screen%20Shot%202017-12-11%20at%2010.32.58%20PM.png)
 
-Advanced wireframe:
+### Advanced wireframes:
+
 ![alternateText](https://github.com/lsi117/Project4/blob/master/Screen%20Shot%202017-12-12%20at%209.45.15%20AM.png)
+
+![alternateText](https://github.com/lsi117/Project4/blob/master/Screen%20Shot%202017-12-12%20at%209.46.06%20AM.png)
+
+
 
 ## What technologies you intend on using.
 Want to build a fullstack rails application. I might want to add some auth? 
