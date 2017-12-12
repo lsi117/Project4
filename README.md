@@ -1,4 +1,3 @@
-### The name of your app.
 # Project 4 Title: To-do List 📝 
 
 ![alternateText](https://media.giphy.com/media/aSZSj0mT8f6tW/giphy.gif)
