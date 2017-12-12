@@ -1,13 +1,26 @@
-# Project4
+# Project4Your proposals must include:
 
-### Proposal
+## The name of your app.
+To-do List
 
-I want to try and make a Game of Life with React. I have a ton of resources that I can use to help me create this(since i'm still trying to get the hang of react), but I think it's important for me to try and get started.
+## What your MVP looks like.
 
-It will literally just be a simple application that will have a grid(needed for the game of life) and simple buttons to press in order to play. Nothing too over the top.
+## What your reach goals are.
+I just want to make fullstack rails to do app.
 
----
+## User stories that describe how your app will be used.
+The user is someone who is on the go and wants to have an app where they can quickly jot down things that are due. Whether that be grabbing some groceries from the store or remembering to attend a concert. 
 
-## Backup Plan
+## Wireframes!
 
-If I end up failing in process of making this, then I will have a backup plan of building a simple to-do app with rails.
+
+## What technologies you intend on using.
+Maybe some auth?
+
+## Your timeline
+Start as soon as proposal is ok go. Try to get everything done, so that I have basic functionality...then start adding additional goodies.
+
+## Foreseen challenges or obstacles.
+Auth and forms.
+
+## A link to your repo!
