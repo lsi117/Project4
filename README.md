@@ -12,7 +12,7 @@ I just want to make fullstack rails to do app.
 The user is someone who is on the go and wants to have an app where they can quickly jot down things that are due. Whether that be grabbing some groceries from the store or remembering to attend a concert. 
 
 ## Wireframes!
-
+![alternateText](https://github.com/lsi117/Project4/blob/master/Screen%20Shot%202017-12-11%20at%2010.32.58%20PM.png)
 
 ## What technologies you intend on using.
 Maybe some auth?
